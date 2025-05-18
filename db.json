@@ -1,71 +1,186 @@
 {
   "quotes": [
     {
-      "id": 1,
-      "quote": "Expect nothing. Live frugally on surprise.",
-      "author": "Alice Walker"
-    },
-    {
-      "id": 2,
+      "id": "2",
       "quote": "Y’all is the best, most inclusive, second-person, plural pronoun in the English-speaking world.",
       "author": "Hannah Gadsby"
     },
     {
-      "id": 3,
-      "quote": "today a man on the street pointed to me & said ‘what the hell is that!?’ i wanted to turn around, tell him that i got this dress on sale & i got this body for free but you have been making me pay for both ever since.",
-      "author": "Alok Vaid Menon"
-    },
-    {
-      "id": 4,
+      "id": "4",
       "quote": "You gain strength, courage and confidence by every experience in which you really stop to look fear in the face. You are able to say to yourself, 'I have lived through this horror. I can take the next thing that comes along.' You must do the thing you think you cannot do.",
       "author": "Eleanor Roosevelt"
     },
     {
-      "id": 5,
+      "id": "5",
       "quote": "We had better not enjoy the moment, but create the moment.",
       "author": "Ai Weiwei"
     },
     {
-      "id": 6,
+      "id": "6",
       "quote": "If I didn't define myself for myself, I would be crunched into other people's fantasies for me and eaten alive.",
       "author": "Audre Lorde"
     },
     {
-      "id": 7,
+      "id": "7",
       "quote": "Our greatest glory is not in never falling, but in rising everytime we fall.",
       "author": "Confucius"
     },
     {
-      "id": 8,
+      "id": "8",
       "quote": "Don't count the days, make the days count.",
       "author": "Muhammad Ali"
     },
     {
-      "id": 9,
+      "id": "9",
       "quote": "Not everything that is faced can be changed, but nothing can be changed until it is faced.",
       "author": "James Baldwin"
     },
     {
-      "id": 10,
+      "id": "10",
       "quote": "You know, failure hurts. Any kind of failure stings. If you live in the sting, you will undoubtedly fail. My way of getting past the sting is to say no, I’m just not going to let this get me down.",
       "author": "Sonia Sotomayor"
     },
     {
-      "id": 11,
+      "id": "11",
       "quote": "The here and now is all we have, and if we play it right it's all we'll need.",
       "author": "Ann Richards"
+    },
+    {
+      "id": "489f",
+      "quote": "Never lie, steal, cheat, or drink. But if you must lie, lie in the arms of the one you love. If you must steal, steal away from bad company. If you must cheat, cheat death. And if you must drink, drink in the moments that take your breath away",
+      "author": "Hitch"
+    },
+    {
+      "id": "b685",
+      "quote": "You know my smile, not my story. ",
+      "author": "Sami"
     }
   ],
   "likes": [
     {
       "id": 1,
-      "quoteId": 1,
+      "quoteId": null,
       "createdAt": 1558524356
     },
     {
-      "quoteId": 10,
+      "quoteId": "10",
       "id": 2,
       "createdAt": 1558524358
+    },
+    {
+      "id": 3,
+      "quoteId": "2",
+      "createdAt": 1747346844
+    },
+    {
+      "id": "b3aa",
+      "quoteId": null,
+      "createdAt": 1747435173
+    },
+    {
+      "id": "71d4",
+      "quoteId": "11",
+      "createdAt": 1747435262
+    },
+    {
+      "id": "54d7",
+      "quoteId": "9",
+      "createdAt": 1747435263
+    },
+    {
+      "id": "c58a",
+      "quoteId": "7",
+      "createdAt": 1747435266
+    },
+    {
+      "id": "d608",
+      "quoteId": "10",
+      "createdAt": 1747435328
+    },
+    {
+      "id": "1b86",
+      "quoteId": "11",
+      "createdAt": 1747438548
+    },
+    {
+      "id": "c831",
+      "quoteId": "10",
+      "createdAt": 1747438556
+    },
+    {
+      "id": "269e",
+      "quoteId": "7",
+      "createdAt": 1747438565
+    },
+    {
+      "id": "ba0a",
+      "quoteId": null,
+      "createdAt": 1747527115
+    },
+    {
+      "id": "4787",
+      "quoteId": "489f",
+      "createdAt": 1747531708
+    },
+    {
+      "id": "d022",
+      "quoteId": "489f",
+      "createdAt": 1747531709
+    },
+    {
+      "id": "5fd0",
+      "quoteId": null,
+      "createdAt": 1747532308
+    },
+    {
+      "id": "56c0",
+      "quoteId": "4",
+      "createdAt": 1747533860
+    },
+    {
+      "id": "be5b",
+      "quoteId": "7",
+      "createdAt": 1747533875
+    },
+    {
+      "id": "9968",
+      "quoteId": "8",
+      "createdAt": 1747533881
+    },
+    {
+      "id": "8659",
+      "quoteId": "489f",
+      "createdAt": 1747534100
+    },
+    {
+      "id": "04ca",
+      "quoteId": "5",
+      "createdAt": 1747534104
+    },
+    {
+      "id": "2b76",
+      "quoteId": "6",
+      "createdAt": 1747534105
+    },
+    {
+      "id": "fa27",
+      "quoteId": "4",
+      "createdAt": 1747534107
+    },
+    {
+      "id": "5614",
+      "quoteId": "2",
+      "createdAt": 1747534108
+    },
+    {
+      "id": "757c",
+      "quoteId": "4",
+      "createdAt": 1747534111
+    },
+    {
+      "id": "260b",
+      "quoteId": "5",
+      "createdAt": 1747534121
     }
   ]
 }
